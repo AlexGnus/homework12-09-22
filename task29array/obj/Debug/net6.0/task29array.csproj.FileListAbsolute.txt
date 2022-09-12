@@ -1,0 +1,15 @@
+C:\Users\Лариса\Desktop\Homework3\task29array\bin\Debug\net6.0\task29array.exe
+C:\Users\Лариса\Desktop\Homework3\task29array\bin\Debug\net6.0\task29array.deps.json
+C:\Users\Лариса\Desktop\Homework3\task29array\bin\Debug\net6.0\task29array.runtimeconfig.json
+C:\Users\Лариса\Desktop\Homework3\task29array\bin\Debug\net6.0\task29array.dll
+C:\Users\Лариса\Desktop\Homework3\task29array\bin\Debug\net6.0\task29array.pdb
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.csproj.AssemblyReference.cache
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.AssemblyInfoInputs.cache
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.AssemblyInfo.cs
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.csproj.CoreCompileInputs.cache
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.dll
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\refint\task29array.dll
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.pdb
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\task29array.genruntimeconfig.cache
+C:\Users\Лариса\Desktop\Homework3\task29array\obj\Debug\net6.0\ref\task29array.dll
